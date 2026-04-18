@@ -21,7 +21,7 @@
 
 ```typescript
 const laibasan = {
-    name: "Laiba San",
+    name: " Laiba ",
     role: "Full-Stack Developer & Prompt Engineer",
     location: "Pakistan 🇵🇰",
     currentFocus: "AI-powered web applications & vibe coding",
