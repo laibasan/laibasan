@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,30:0B0F0C,65:0F2E1D,100:1DB954&text=LAIBA%20•%20DEV%20STUDIO&fontColor=E8FFE8&fontSize=44&fontAlignY=38&desc=Coding%20%7C%20AI%20%7C%20Creative%20Developer&descAlignY=58&animation=fadeIn" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:dcfce7,100:bbf7d0&text=LAIBA%20•%20DEV%20STUDIO&fontColor=064e3b&fontSize=44&fontAlignY=38&desc=Coding%20%7C%20AI%20%7C%20Creative%20Developer&descAlignY=58&animation=fadeIn" width="100%" alt="Banner" />
 
 <br/>
 
@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Theme-Spotify%20Inspired-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" />
-<img src="https://img.shields.io/badge/Status-Now%20Building-0f172a?style=for-the-badge&logo=vercel&logoColor=22c55e" />
-<img src="https://komarev.com/ghpvc/?username=laibasan&label=Profile%20Plays&color=1DB954&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Theme-Light%20Green-dcfce7?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=bbf7d0" />
+<img src="https://img.shields.io/badge/Status-Now%20Building-dcfce7?style=for-the-badge&logo=vercel&logoColor=16a34a&labelColor=bbf7d0" />
+<img src="https://komarev.com/ghpvc/?username=laibasan&label=Profile%20Plays&color=16a34a&style=for-the-badge" />
 
 <br/>
 <p align="center">
@@ -32,12 +32,12 @@
 ### **Currently Coding: AI + Web Projects**
 `Laiba • Live Session`
 
-**0:42**▰   ▰   ▰   ▰   ▰   ▱   ▱   ▱   ▱   ▱**3:14**  
-**⇆                   ◁    ❚❚    ▷                      ↻**
+**0:42** ▰▰▰▰▰▱▱▱▱▱ **3:14**  
+**⇆  ◁ ❚❚ ▷  ↻**
 
 <br/>
 
-<img src="https://img.shields.io/badge/Vibe-Deep%20Focus-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/Vibe-Deep%20Focus-16a34a?style=flat-square&logo=spotify&logoColor=white" />
 <img src="https://img.shields.io/badge/Mode-Coding%20Mix-111827?style=flat-square&logo=github&logoColor=22c55e" />
 <img src="https://img.shields.io/badge/Release%20Cycle-Shipping%20Weekly-0f172a?style=flat-square&logo=rocket&logoColor=38bdf8" />
 
@@ -55,11 +55,11 @@
 
 | Track | Title | Duration (Exp) | Genre (Tech) |
 | :---: | :--- | :---: | :--- |
-| **01** | **The AI / ML Mix** | `Continuous` | <img src="https://img.shields.io/badge/Gemini_API-121212?style=flat-square&logo=google&logoColor=1DB954" /> <img src="https://img.shields.io/badge/Prompt_Eng-0f172a?style=flat-square&logo=openai&logoColor=22c55e" /> |
-| **02** | **Frontend Fundamentals** | `Daily` | <img src="https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=22d3ee" /> <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=ffffff" /> |
-| **03** | **Styling Symphony** | `Looping` | <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8" /> <img src="https://img.shields.io/badge/Framer_Motion-121212?style=flat-square&logo=framer&logoColor=white" /> |
-| **04** | **Backend Beats** | `Heavy` | <img src="https://img.shields.io/badge/Node.js-121212?style=flat-square&logo=nodedotjs&logoColor=22c55e" /> <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=38bdf8" /> |
-| **05** | **Game Dev Groove** | `Bonus` | <img src="https://img.shields.io/badge/Unity-121212?style=flat-square&logo=unity&logoColor=ffffff" /> <img src="https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=a78bfa" /> |
+| **01** | **The AI / ML Mix** | `Continuous` | <img src="https://img.shields.io/badge/Gemini_API-dcfce7?style=flat-square&logo=google&logoColor=16a34a" /> <img src="https://img.shields.io/badge/Prompt_Eng-dcfce7?style=flat-square&logo=openai&logoColor=16a34a" /> |
+| **02** | **Frontend Fundamentals** | `Daily` | <img src="https://img.shields.io/badge/React-dcfce7?style=flat-square&logo=react&logoColor=0ea5e9" /> <img src="https://img.shields.io/badge/Next.js-dcfce7?style=flat-square&logo=nextdotjs&logoColor=0f172a" /> |
+| **03** | **Styling Symphony** | `Looping` | <img src="https://img.shields.io/badge/TailwindCSS-dcfce7?style=flat-square&logo=tailwindcss&logoColor=0ea5e9" /> <img src="https://img.shields.io/badge/Framer_Motion-dcfce7?style=flat-square&logo=framer&logoColor=0f172a" /> |
+| **04** | **Backend Beats** | `Heavy` | <img src="https://img.shields.io/badge/Node.js-dcfce7?style=flat-square&logo=nodedotjs&logoColor=16a34a" /> <img src="https://img.shields.io/badge/TypeScript-dcfce7?style=flat-square&logo=typescript&logoColor=0ea5e9" /> |
+| **05** | **Game Dev Groove** | `Bonus` | <img src="https://img.shields.io/badge/Unity-dcfce7?style=flat-square&logo=unity&logoColor=0f172a" /> <img src="https://img.shields.io/badge/C%23-dcfce7?style=flat-square&logo=csharp&logoColor=8b5cf6" /> |
 
 </div>
 
@@ -94,7 +94,7 @@ A smart productivity hub with intelligent task handling, automated summarization
 
 ### 🔵 **[portfolio](https://github.com/laibasan/portfolio)**
 *The Signature Sound*  
-My personal portfolio featuring a sleek dark-themed interactive UI, scroll animations, and a motion-focused presentation.  
+My personal portfolio featuring an interactive UI, scroll animations, and a motion-focused presentation.  
 `React` `Tailwind` `Framer Motion`
 
 </td>
@@ -124,24 +124,21 @@ A digital art showcase designed as a smooth, immersive visual gallery to display
 <tr>
 <td width="33%" align="center">
   <a href="https://instagram.com/bailaa_art">
-    <!-- Replace 'your-image-1.jpg' with a link to an image uploaded to your repo -->
-    <img src="your-image-1.jpg" alt="Art Piece 1" width="100%" style="border-radius: 10px;" />
+    <img src="https://placehold.co/600x400/dcfce7/16a34a?text=Upload+Your+Pic+1" alt="Art Piece 1" width="100%" style="border-radius: 10px;" />
   </a>
   <br/>
   <b><i>Piece Title 1</i></b>
 </td>
 <td width="33%" align="center">
   <a href="https://instagram.com/bailaa_art">
-    <!-- Replace 'your-image-2.jpg' with a link to an image uploaded to your repo -->
-    <img src="your-image-2.jpg" alt="Art Piece 2" width="100%" style="border-radius: 10px;" />
+    <img src="https://placehold.co/600x400/dcfce7/16a34a?text=Upload+Your+Pic+2" alt="Art Piece 2" width="100%" style="border-radius: 10px;" />
   </a>
   <br/>
   <b><i>Piece Title 2</i></b>
 </td>
 <td width="33%" align="center">
   <a href="https://instagram.com/bailaa_art">
-    <!-- Replace 'your-image-3.jpg' with a link to an image uploaded to your repo -->
-    <img src="your-image-3.jpg" alt="Art Piece 3" width="100%" style="border-radius: 10px;" />
+    <img src="https://placehold.co/600x400/dcfce7/16a34a?text=Upload+Your+Pic+3" alt="Art Piece 3" width="100%" style="border-radius: 10px;" />
   </a>
   <br/>
   <b><i>Piece Title 3</i></b>
@@ -160,22 +157,23 @@ A digital art showcase designed as a smooth, immersive visual gallery to display
 <div align="center">
 
 <a href="https://github.com/laibasan">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laibasan&show_icons=true&bg_color=0d1117&title_color=1DB954&text_color=e6edf3&icon_color=22c55e&border_color=1f2937&hide_title=false&custom_title=Streaming%20Code%20Stats" />
+  <!-- Set to Light Green Background -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laibasan&show_icons=true&bg_color=dcfce7&title_color=064e3b&text_color=0f172a&icon_color=16a34a&border_color=bbf7d0&hide_title=false&custom_title=Streaming%20Code%20Stats" />
 </a>
 <a href="https://github.com/laibasan">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=laibasan&theme=dark&background=0d1117&ring=1DB954&fire=22c55e&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=9ca3af&dates=6b7280&border=1f2937" />
+  <!-- Set to Light Green Background -->
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=laibasan&theme=default&background=dcfce7&ring=16a34a&fire=16a34a&currStreakNum=0f172a&sideNums=0f172a&sideLabels=064e3b&dates=0f172a&border=bbf7d0" />
 </a>
 
 <a href="https://github.com/laibasan">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laibasan&layout=compact&bg_color=0d1117&title_color=1DB954&text_color=e6edf3&border_color=1f2937" />
-</a>
-<a href="https://github.com/laibasan">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laibasan&theme=github_dark" />
+  <!-- Set to Light Green Background -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laibasan&layout=compact&bg_color=dcfce7&title_color=064e3b&text_color=0f172a&border_color=bbf7d0" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laibasan&bg_color=0d1117&color=1DB954&line=22c55e&point=38bdf8&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<!-- Set to Light Green Background -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laibasan&bg_color=dcfce7&color=0f172a&line=16a34a&point=059669&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -186,16 +184,16 @@ A digital art showcase designed as a smooth, immersive visual gallery to display
 <div align="center">
 
 <a href="https://open.spotify.com/user/31dttwuafjh3il3cbbmsktylthlu">
-  <img src="https://img.shields.io/badge/Spotify-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" />
+  <img src="https://img.shields.io/badge/Spotify-dcfce7?style=for-the-badge&logo=spotify&logoColor=16a34a" />
 </a>
 <a href="https://laibasan.github.io/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-1DB954?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-16a34a?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://instagram.com/bailaa_art">
-  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=ff4ecd" />
+  <img src="https://img.shields.io/badge/Instagram-dcfce7?style=for-the-badge&logo=instagram&logoColor=ec4899" />
 </a>
 <a href="mailto:your_email@example.com">
-  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Email-dcfce7?style=for-the-badge&logo=gmail&logoColor=0f172a" />
 </a>
 
 </div>
